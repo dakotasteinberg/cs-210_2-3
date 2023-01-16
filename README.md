@@ -9,7 +9,7 @@ further info on the process I used when completing this assignment.
 
 How I fixed/modified the following program:
 I first started with all the issues underlined in
-red by my IDE. This allowed to fix many syntax
+red by my IDE. This allowed me to fix many syntax
 errors in the program. I then ran the program and
 saw no output. I was able to fix the while loop
 and then received output on the terminal. After
